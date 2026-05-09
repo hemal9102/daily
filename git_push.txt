@@ -1,0 +1,42 @@
+@echo off
+
+echo Configuring repo for second GitHub account...
+
+git config user.name "hemal9102"
+git config user.email "hemal.shah2004@gmail.com"
+
+git remote set-url origin git@github-second:hemal9102/daily.git
+
+echo.
+echo Repo configured successfully.
+
+git remote -v
+
+pause
+
+@echo off
+
+git add .
+git commit -m "update"
+git push origin master
+
+pause
+
+[core]
+    repositoryformatversion = 0
+    filemode = false
+    bare = false
+    logallrefupdates = true
+    symlinks = false
+    ignorecase = true
+
+[remote "origin"]
+	url = https://github.com/hemal9102/daily.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+
+[branch "main"]
+    remote = origin
+    merge = refs/heads/main
+[user]
+	name = hemal9102
+	email = hemal.shah2004@gmail.com
