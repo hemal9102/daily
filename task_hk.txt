@@ -639,3 +639,21 @@ Hemal Shah
 --changed information in footer
 --changed information in Header
 --added new style and animation 
+
+7-5-26
+
+Hemal Shah
+
+-GMB_review project for local business
+--research and planning on system architecture 
+
+-wisdom academy
+--added new UI and animation 
+
+8-5-26
+
+Hemal Shah
+
+-GMB_review project for local business
+--R & D for project's local server
+--set up of pc 
