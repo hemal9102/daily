@@ -657,3 +657,13 @@ Hemal Shah
 -GMB_review project for local business
 --R & D for project's local server
 --set up of pc 
+
+9-5-26
+
+Hemal Shah
+
+-Landing page 
+--changes in colour and animaitons 
+
+-GMB_review project for local business
+--error solving 
