@@ -658,7 +658,7 @@ Hemal Shah
 --R & D for project's local server
 --set up of pc 
 
-9-5-26
+11-5-26
 
 Hemal Shah
 
@@ -667,3 +667,31 @@ Hemal Shah
 
 -GMB_review project for local business
 --error solving 
+
+12-5-26
+
+Hemal Shah
+
+-GMB_review project for local business
+--production to make project live 
+--under going ai integration
+
+13-5-26
+
+Hemal Shah
+
+-GMB_review project for local business
+--LIVE completion of project
+
+14-5-26
+hemal shah
+
+-GMB_review project for local business
+--all changes are done according to meeting 
+
+15-5-26
+Hemal shah
+
+-GMB_review project for local business
+--created documentation 
+--network error solving of deployment
