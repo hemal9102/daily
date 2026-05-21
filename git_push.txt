@@ -32,7 +32,7 @@ pause
 
 [remote "origin"]
 	url = https://github.com/hemal9102/daily.git
-    fetch = +refs/heads/*:refs/remotes/origin/*
+    	fetch = +refs/heads/*:refs/remotes/origin/*
 
 [branch "main"]
     remote = origin
