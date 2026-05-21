@@ -695,3 +695,62 @@ Hemal shah
 -GMB_review project for local business
 --created documentation 
 --network error solving of deployment
+
+
+18-5-26
+
+Hemal Shah
+
+-rank auto checker 
+--working on google authentication 
+
+-shree anand
+--updated the website content 
+--fixed animation and css
+ 
+19-526
+
+Hemal Shah
+
+-rank auto checker 
+--updation in database injection for google auth 
+--google auth backend updation in routes
+
+-shree nand consultant
+--css files updation 
+--responsive ness 
+--fixation in frontend animation 
+--live on subdomain
+
+20-5-26
+
+Hemal shah
+
+-rank auto checker 
+--under going for frontend for google auth 
+--under going connection of API google auth 
+
+-railway server 
+--errors fixing for live server 
+
+-review generator 
+--meeting with sales team 
+
+-shree nand consultant 
+--creation of admin panel
+--creation of database 
+--live on sub domain 
+
+21-5-26
+
+Hemal shah
+
+-shreenand consultant 
+--error solutions for admin panel 
+--live on main domain 
+
+-Gandhinagar orthopedic and pohysio
+--explained medical system 
+--added section on website 
+--call with doctor chandres 
+--call with beauty gurukul
