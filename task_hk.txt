@@ -749,8 +749,41 @@ Hemal shah
 --error solutions for admin panel 
 --live on main domain 
 
+-rank auto checker 
+--error solving for google auth 
+--completion of google auth
+
+22-5-26
+
+Hemal shah
+
+-rank auto checker 
+--migration of database for authentication 
+--completion of google auth with database 
+--new serpapi gateway 
+
 -Gandhinagar orthopedic and pohysio
 --explained medical system 
 --added section on website 
 --call with doctor chandres 
 --call with beauty gurukul
+
+-achievers academy 
+--index.php
+--blog.php
+
+23-5-26
+
+-achievers academy 
+--index.php
+--blog.php
+--style.css
+--style.js
+--service.php
+--admin panel setting 
+--database migration from hositnger 
+--contactus.php
+--creation of new admin panel 
+--new database and file updation 
+--errors, layout and css, js spaghetti code solving 
+
