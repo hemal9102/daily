@@ -774,12 +774,30 @@ Hemal shah
 
 23-5-26
 
+-rank auto checker 
+--google sign up page completion
+
+-lead data 
+--analysis of inddigmedia.in/lead
+--lead data visualization using ERD
+
+-dr Neelam clinic 
+--call from dr Neelam clinic 
+
+-System design for company 
+--research and read documentation for techstack 
+
 -achievers academy 
---index.php
---blog.php
+--service.php
+
+22-5-26
+
+-rank auto checker 
+--google sign up page completion
+
+-achievers academy 
 --style.css
 --style.js
---service.php
 --admin panel setting 
 --database migration from hositnger 
 --contactus.php
