@@ -790,10 +790,14 @@ Hemal shah
 -achievers academy 
 --service.php
 
-22-5-26
+25-5-26
 
 -rank auto checker 
 --google sign up page completion
+--changes in UI, logo and navbar 
+--undergoing solution for production error
+--live on inddigchecker.in
+--added button in landing page for inddigchecker.in
 
 -achievers academy 
 --style.css
